@@ -1,0 +1,5 @@
+arxiv
+requests
+pymupdf
+pydantic>=2, <3
+pytest
